@@ -1,0 +1,13 @@
+
+ Start  Stop   Length Name               Class
+
+ 00000H 0276BH 0276CH MCODE              
+ 02770H 02EBFH 00750H MCODE1             
+ 02EC0H 032C3H 00404H DATAS1             
+ 032D0H 03A4EH 0077FH WINDOWS            
+ 03A50H 05B3BH 020ECH CODE               
+ 05B40H 05F27H 003E8H STACKS             
+ 05F30H 05F30H 00000H ENDSEGM            
+
+Program entry point at 03A5:0000
+
